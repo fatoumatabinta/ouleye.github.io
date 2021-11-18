@@ -181,7 +181,7 @@ background-color: blanchedalmond;
     .triangle {
         border-left: 25px transparent solid;
         border-right: 25px transparent solid;
-        border-top: 20px #ce0033 solid;
+        border-top: 20px #ec0a43 solid;
         width: 30px;
         height: 30px;
         position: absolute;
@@ -189,7 +189,7 @@ background-color: blanchedalmond;
         left: 50%;
         transform: translate(-50%);
     }
-    button{
+    bu{
         background-color: rgb(230, 54, 54);
         text-decoration: seashell;
     }
