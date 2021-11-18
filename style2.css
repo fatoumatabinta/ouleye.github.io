@@ -193,11 +193,10 @@ line-height: 66px;
       }
       .titrebaniere{
           position: absolute;
-          top:50%;
-          left: 45%;
+          top:45%;
+          left: 30%;
           color: blanchedalmond;
-          width: 400px;
-          height: 7rem;
+          font-size: 150px;
       }
      .couleurbtn{
          color: blanchedalmond;
