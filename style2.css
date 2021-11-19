@@ -13,7 +13,7 @@ font-style:roboto;
     border-left: 4px solid rgb(230, 54, 54);
     height: 700px;
     display:inline-block;
-    background:brown;
+    background:#ce0033;
     border-radius: 6px;
     margin-left: 1rem;
 }
@@ -29,10 +29,10 @@ font-style:roboto;
 width: 150px;
 height: 50px;
 border-radius: 3px;
-border: brown;
+border: #ce0033;
 }
 .button{
-    color: crimson;
+    color: #ce0033;
     border-radius: 2pt;
 }
 .row{
@@ -40,7 +40,7 @@ border: brown;
     height: 100%;
 }
 .d-flex{
-color: crimson;
+color: #ce0033;
 
 }
 .menu{
@@ -57,7 +57,7 @@ line-height: 66px;
     float:right;
 }
 .m-right.Contact{
-    color: brown;
+    color: #ce0033;
      border-radius: 2px;
      top:60px; 
      text-decoration: blanchedalmond;
@@ -103,7 +103,7 @@ line-height: 66px;
 .block1{
 
     display:inline-block;
-    background:brown;
+    background:#ce0033;
     border-radius: 18px;
     margin-left: 0,3rem;
     top: 2000px;
@@ -113,7 +113,7 @@ line-height: 66px;
 .block2{
 
     display:inline-block;
-    background:brown;
+    background:#ce0033;
     border-radius: 18px;
     margin-left: 0,3rem;
     top: 2990px;
@@ -122,7 +122,7 @@ line-height: 66px;
 }
 .block3{
     display: inline-block;
-    background: brown;
+    background:#ce0033;
     border-radius: 18px;
     margin-left: 0,3rem;
     top:3900px;
@@ -134,14 +134,14 @@ line-height: 66px;
     border-left: 4px solid rgb(230, 54, 54);
     height: 700px;
     display:inline-block;
-    background:brown;
+    background:#ce0033;
     border-radius: 6px;
     margin-left: 1rem;
      }
 
      .block4{
         display:inline-block;
-        background:brown;
+        background:#ce0033;
         border-radius: 18px;
         margin-left: 0,3rem;
         top: 2000px;
@@ -151,7 +151,7 @@ line-height: 66px;
     
     .block5{
         display:inline-block;
-        background:brown;
+        background:#ce0033;
         border-radius: 18px;
         margin-left: 0,3rem;
         top: 2990px;
@@ -163,7 +163,7 @@ line-height: 66px;
     .block6{
 
         display: inline-block;
-        background: brown;
+        background:#ce0033;
         border-radius: 18px;
         margin-left: 0,3rem;
         top:3900px;
@@ -171,7 +171,7 @@ line-height: 66px;
     }
     .block7{
         display: inline-block;
-        background:brown;
+        background:#ce0033;
         border-radius:18px;
         margin-left: 0,3rem;
         top:4800;
@@ -180,7 +180,7 @@ line-height: 66px;
     .triangle {
         border-left: 25px transparent solid;
         border-right: 25px transparent solid;
-        border-top: 20px #ec0a43 solid;
+        border-top: 20px #ce0033 solid;
         width: 30px;
         height: 30px;
         position: absolute;
@@ -216,5 +216,17 @@ line-height: 66px;
         
          
      } 
-
+     .parparcour{
+         color:#ce0033;
+     }
+     .parpublic{
+         color: #ce0033;
+     }
+    .enpartenariat{
+        color: #ce0033;
+        text-align-last:right;
+    }
+    .titreh5{
+        color: aliceblue;
+    }
 
